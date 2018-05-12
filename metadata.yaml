@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8431
     wikipedia: http://en.wikipedia.org/wiki/Emma_Willard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19053#Theory-of-Circulation-by-Respiration--Synopsis-of-its-Principles-and-History
 gutenberg_bookshelf: Physiology
 gutenberg_issued: '2006-08-15'
 gutenberg_type: Text
